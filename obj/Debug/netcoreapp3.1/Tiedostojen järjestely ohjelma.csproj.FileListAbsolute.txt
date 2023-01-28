@@ -1,0 +1,24 @@
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\Tiedostojen_järjestely_ohjelma.Form1.resources
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\Tiedostojen järjestely ohjelma.csproj.GenerateResource.cache
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\Tiedostojen järjestely ohjelma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\Tiedostojen järjestely ohjelma.AssemblyInfoInputs.cache
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\Tiedostojen järjestely ohjelma.AssemblyInfo.cs
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\Tiedostojen järjestely ohjelma.csproj.CoreCompileInputs.cache
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\Tiedostojen järjestely ohjelma.genruntimeconfig.cache
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\Tiedostojen_järjestely_ohjelma.Properties.Resources.resources
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\CircularProgressBar.dll
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\CopyFiles.dll
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\WinFormAnimation.dll
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\ProgressRing.Forms.Plugin.dll
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\Tiedostojen järjestely ohjelma.csproj.CopyComplete
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\File Oganization App.exe
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\File Oganization App.deps.json
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\File Oganization App.runtimeconfig.json
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\File Oganization App.runtimeconfig.dev.json
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\File Oganization App.dll
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\bin\Debug\netcoreapp3.1\File Oganization App.pdb
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\File Oganization App.dll
+E:\Koodaus\Omat projektit\Winform\Tiedostojen järjestely ohjelma\obj\Debug\netcoreapp3.1\File Oganization App.pdb

@@ -1,0 +1,12 @@
+E:\Kayttaja\Työpöytä\Tiedostojen järjestely ohjelma.exe
+E:\Kayttaja\Työpöytä\Tiedostojen järjestely ohjelma.dll
+E:\Kayttaja\Työpöytä\Tiedostojen järjestely ohjelma.deps.json
+E:\Kayttaja\Työpöytä\Tiedostojen järjestely ohjelma.runtimeconfig.json
+E:\Kayttaja\Työpöytä\Tiedostojen järjestely ohjelma.pdb
+E:\Kayttaja\Työpöytä\CircularProgressBar.dll
+E:\Kayttaja\Työpöytä\CopyFiles.dll
+E:\Kayttaja\Työpöytä\WinFormAnimation.dll
+E:\Kayttaja\Työpöytä\ProgressRing.Forms.Plugin.dll
+E:\Kayttaja\Työpöytä\Xamarin.Forms.Core.dll
+E:\Kayttaja\Työpöytä\Xamarin.Forms.Platform.dll
+E:\Kayttaja\Työpöytä\Xamarin.Forms.Xaml.dll

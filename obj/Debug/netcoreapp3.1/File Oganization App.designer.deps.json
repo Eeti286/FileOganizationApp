@@ -1,0 +1,102 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CircularProgressBar/2.6.6823.24527": {
+        "dependencies": {
+          "WinFormAnimation": "1.5.6298.3372"
+        },
+        "runtime": {
+          "lib/net35-client/CircularProgressBar.dll": {
+            "assemblyVersion": "2.6.6823.24527",
+            "fileVersion": "2.6.0.0"
+          }
+        }
+      },
+      "DIA_CopyFiles/1.0.0": {
+        "runtime": {
+          "lib/net/CopyFiles.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WinFormAnimation/1.5.6298.3372": {
+        "runtime": {
+          "lib/net35-client/WinFormAnimation.dll": {
+            "assemblyVersion": "1.5.6298.3372",
+            "fileVersion": "1.5.0.0"
+          }
+        }
+      },
+      "Xam.Plugins.Forms.ProgressRing/0.1.2": {
+        "dependencies": {
+          "Xamarin.Forms": "2.3.4.247"
+        },
+        "runtime": {
+          "lib/portable-net45+wp80+win8+wpa81/ProgressRing.Forms.Plugin.dll": {
+            "assemblyVersion": "1.0.6460.16364",
+            "fileVersion": "1.0.6460.16364"
+          }
+        }
+      },
+      "Xamarin.Forms/2.3.4.247": {
+        "runtime": {
+          "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CircularProgressBar/2.6.6823.24527": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VtlzsCUpTG8TM3mXdttsLeQ5Kbndkf6UZzqtkr6dsNS+UeJZoUJ0HKVpHTie+nbBgfiXAO4/Rlir01iqG8IqqQ==",
+      "path": "circularprogressbar/2.6.6823.24527",
+      "hashPath": "circularprogressbar.2.6.6823.24527.nupkg.sha512"
+    },
+    "DIA_CopyFiles/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PfngFfS9vXR2wVQnxMm/dLv9Pa7NbznsMtxaCz4ctCUN8ur9Wp21BXLsoHTCz3tvwb1wLUSuNwJWfnF++xNKyA==",
+      "path": "dia_copyfiles/1.0.0",
+      "hashPath": "dia_copyfiles.1.0.0.nupkg.sha512"
+    },
+    "WinFormAnimation/1.5.6298.3372": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VQ2IeMQhRkVMt31vZIUE1qtfWoZPNa8kErQn11xGFKRF+5UhbeiqKWEB3N+PrCMLarWZ/hjRD9SJC1twHeiEHA==",
+      "path": "winformanimation/1.5.6298.3372",
+      "hashPath": "winformanimation.1.5.6298.3372.nupkg.sha512"
+    },
+    "Xam.Plugins.Forms.ProgressRing/0.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TqxIQo9uiq0EXPSIet8eouoF0Vs1Al30Urd++LXkH2lCQPMJzr5aCrwnCrTi9/4V229njCgUw53+Au6xWbZwHg==",
+      "path": "xam.plugins.forms.progressring/0.1.2",
+      "hashPath": "xam.plugins.forms.progressring.0.1.2.nupkg.sha512"
+    },
+    "Xamarin.Forms/2.3.4.247": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+6VN8IBSah7EcNJ4SV3pIhNA8tNlBaPLfr3+hQpPIllueJrXI5QtjM0tAJusPc2V1cYyC4YKvA1fs5c/A8RrBw==",
+      "path": "xamarin.forms/2.3.4.247",
+      "hashPath": "xamarin.forms.2.3.4.247.nupkg.sha512"
+    }
+  }
+}
